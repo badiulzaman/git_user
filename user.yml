@@ -7,3 +7,5 @@ myusers:
     group: developer
   - name: alex
     group: developer
+  - name: greg
+    group: developer
